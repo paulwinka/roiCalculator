@@ -1,0 +1,16 @@
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\bin\Debug\ROI.exe.config
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\bin\Debug\ROI.exe
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\bin\Debug\ROI.pdb
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\obj\Debug\ROI.csprojAssemblyReference.cache
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\obj\Debug\ROI.Form1.resources
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\obj\Debug\ROI.Properties.Resources.resources
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\obj\Debug\ROI.csproj.GenerateResource.cache
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\obj\Debug\ROI.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\obj\Debug\ROI.exe
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\obj\Debug\ROI.pdb
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\obj\Debug\ROI.Form2.resources
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\bin\Debug\properties.mdf
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\bin\Debug\properties_log.ldf
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\obj\Debug\ROI.Form3.resources
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\obj\Debug\ROI.Form4.resources
+C:\Users\pauli\Documents\tortoise\all-coursework-xylo7-1\final_project\actual_project\roi_calc\ROI\obj\Debug\ROI.Form5.resources

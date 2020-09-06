@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasses2">
+  <DataContextMoniker Name="/DataClasses2DataContext" />
+  <nestedChildShapes>
+    <classShape Id="28a84cd4-90c1-46ac-9149-27e86fefe3b2" absoluteBounds="2.75, 0.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataClasses2DataContext/Owner" />
+      <nestedChildShapes>
+        <elementListCompartment Id="76bdb390-4827-4785-9902-f6913345128c" absoluteBounds="2.765, 0.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="74a3bbc6-d0b9-4b42-a6fb-2ff55b4485aa" absoluteBounds="0.5, 0.5, 2, 2.5401025390625">
+      <DataClassMoniker Name="/DataClasses2DataContext/CASA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c7dffd93-4773-4f94-8298-83c8b4abe47b" absoluteBounds="0.515, 0.96, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e80f7a3a-ac5f-45cf-8d48-160d7db91302" absoluteBounds="5.125, 0.5, 2, 3.1170068359375">
+      <DataClassMoniker Name="/DataClasses2DataContext/Mortgage" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ad837bcd-676c-44e8-9c7e-dad742434cf6" absoluteBounds="5.14, 0.96, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

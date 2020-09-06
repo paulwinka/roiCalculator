@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Ranken" Class="DataClasses2DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(localdb)\ProjectsV13;Initial Catalog=Ranken;Integrated Security=True;Pooling=False" SettingsObjectName="ROI.Properties.Settings" SettingsPropertyName="RankenConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Owner" Member="Owners">
+    <Type Name="Owner">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ownerName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="bracket" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CASA" Member="CASAs">
+    <Type Name="CASA">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="area" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="bedrooms" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="bathrooms" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="garage" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="basement" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="appreciationRate" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="OwnerID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Mortgage" Member="Mortgages">
+    <Type Name="Mortgage">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="LtvRatio" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="LoanAmount" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="MonthlyPayment" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="Months" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="InterestRate" Type="System.Decimal" DbType="Decimal(13,5)" CanBeNull="true" />
+      <Column Name="LoanOriginationFees" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="DownPayment" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="DepreciableClosingCosts" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="OtherClosingCosts" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="PurchasePrice" Type="System.Decimal" DbType="Decimal(16,2)" CanBeNull="true" />
+      <Column Name="PropertyID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
